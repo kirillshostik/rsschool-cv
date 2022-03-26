@@ -28,3 +28,9 @@ console.log(`The value of b after swapping: ${b}`)
 * JS
 * Figma, Photoshop
 ***
+## Education
+* **BSU** (FSC, applied informatics, *2016-2020*)
+***
+## Languages
+1. Belarussian (native)
+2. English (B1)
