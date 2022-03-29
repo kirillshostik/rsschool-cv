@@ -1,14 +1,33 @@
-bode {
+body {
     size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .me {
    height: 400px; 
+   margin-right: 40px;
+   display: inline-block;
 }
 
 .header {
     font-weight: bold;
     size: 14px;
-    padding-left: 25px;
+}
+
+.wrapper {
+ margin: 0 auto;
+}
+
+.cv {
+    width: 500px;
+    display: inline-block;
+}
+
+.code {
+    padding-left: 15px;
+}
+.code>p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-style: italic;
 }
